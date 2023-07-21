@@ -1,0 +1,8 @@
+D:\Source\repo\DVT\DVTElevatorAssessment\bin\Debug\DVTElevatorAssessment.exe.config
+D:\Source\repo\DVT\DVTElevatorAssessment\bin\Debug\DVTElevatorAssessment.exe
+D:\Source\repo\DVT\DVTElevatorAssessment\bin\Debug\DVTElevatorAssessment.pdb
+D:\Source\repo\DVT\DVTElevatorAssessment\obj\Debug\DVTElevatorAssessment.csproj.AssemblyReference.cache
+D:\Source\repo\DVT\DVTElevatorAssessment\obj\Debug\DVTElevatorAssessment.csproj.SuggestedBindingRedirects.cache
+D:\Source\repo\DVT\DVTElevatorAssessment\obj\Debug\DVTElevatorAssessment.csproj.CoreCompileInputs.cache
+D:\Source\repo\DVT\DVTElevatorAssessment\obj\Debug\DVTElevatorAssessment.exe
+D:\Source\repo\DVT\DVTElevatorAssessment\obj\Debug\DVTElevatorAssessment.pdb

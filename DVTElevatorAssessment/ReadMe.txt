@@ -20,29 +20,3 @@
 //For extra credit, allow a weight limit, expressed as a number of people, to be imposed on the elevators. You can assume every elevator in the simulation has the same weight limit.
 // 
 ///
-
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Console;
-using DVTElevatorAssessment.CustomClass;
-
-namespace DVTElevatorAssessment
-{
-    public class Program
-    {
-        static void Main(string[] args)
-        {
-            WriteLine("|||||||||||| WELCOME to ELEVATOR App! |||||||||||||" +
-                Environment.NewLine);
-
-            var elevatorSimulator = new ElevatorSimulator(2, 5, 10, 700); // 2 elevators, 5 floors, capacity 10, weight limit 700 kg
-            elevatorSimulator.Main();
-
-            WriteLine("|||||||||||| END |||||||||||||");
-            ReadKey();
-        }
-    }
-}

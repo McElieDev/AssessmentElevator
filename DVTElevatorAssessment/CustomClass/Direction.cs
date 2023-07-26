@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace DVTElevatorAssessment.CustomClass
 {
-    public enum Direction
-    {
-        Up,
-        Down,
-        Idle
-    }
+	/// <summary>
+    /// An enum representing the direction of an elevator (Up, Down, or Idle).
+    /// </summary>
+	public enum Direction
+	{
+		Up,
+		Down,
+		Idle
+	}
 }
